@@ -1,0 +1,12 @@
+add $s5 $s3
+
+lw $s5 12
+jmp 5
+
+otp $s4
+
+beq $s1 3
+
+inp $s12
+
+dsp

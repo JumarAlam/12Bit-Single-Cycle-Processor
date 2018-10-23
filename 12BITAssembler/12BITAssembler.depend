@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1533730272 source:/home/tanjeeb-jumar/Desktop/12BIT/12BITAssembler/main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
+1533743830 source:/media/alvee32/ABCD/12BIT/12BITAssembler/main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
