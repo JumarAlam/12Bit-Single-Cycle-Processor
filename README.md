@@ -5,3 +5,6 @@ This project was done under the supervision of Dr. Tanzilur Rahman, Assistant Pr
 
 For understanding the assembler part, please go through the documentaion.
 And for the rest of the project, follow the ISA.
+
+
+![alt text](https://github.com/JumarAlam/12Bit-Single-Cycle-Processor/blob/master/Project%20Snap.png)
